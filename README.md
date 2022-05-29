@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+
 <!--
 **lucasacioly/lucasacioly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,8 +15,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+##
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasacioly&theme=dracula&show_icons=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasacioly&layout=compact&theme=dracula&langs_count=16&hide=Jupyter Notebook"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasacioly&theme=github_dark&show_icons=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasacioly&layout=compact&theme=github_dark&langs_count=16&hide=Jupyter Notebook"/>
 </div>
