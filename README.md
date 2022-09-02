@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 ##
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasacioly&theme=github_dark&show_icons=true&count_private=true"/>
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&theme=tokyonight)
+  <!--<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasacioly&layout=compact&theme=github_dark&langs_count=16&hide=Jupyter Notebook"/>-->
 </div>
