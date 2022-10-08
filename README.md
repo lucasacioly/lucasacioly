@@ -16,5 +16,5 @@
 <div>
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasacioly&theme=github_dark&show_icons=true&locale=en&layout=compact" alt="lucasacioly" /></p>
 
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lucasacioly&theme=github_dark&show_icons=true&locale=en&layout=compact" alt="lucasacioly" /></p>
+  <p>&nbsp;<img height="165em" src="https://github-readme-stats.vercel.app/api?username=lucasacioly&theme=github_dark&show_icons=true&locale=en&layout=compact" alt="lucasacioly" /></p>
 </div>
