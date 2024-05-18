@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm José Lucas Acioly</h1>
-<h3 align="center">Computer Science student</h3>
+<h3 align="center">Computer Science student & Full Stack developper</h3>
 
 - 📚 I’m currently studying at [CIn - UFPE](https://portal.cin.ufpe.br/)
 
-- 📫 How to reach me **lucasacioly@outlook.com**
+- 📫 How to reach me **lucasacioly.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
