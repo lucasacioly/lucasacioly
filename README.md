@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm José Lucas Acioly</h1>
 <h3 align="center">Computer Science student & Full Stack developper</h3>
 
-- 📚 I’m currently studying at [CIn - UFPE](https://portal.cin.ufpe.br/)
+- 📚 I’m currently studying at [CIn - UFPE](https://portal.cin.ufpe.br/) as a Graduation student and I hope to enter in a Masters program
 
 - 📫 How to reach me **lucasacioly.dev@gmail.com**
 
